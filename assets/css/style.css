@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header #select {
+  margin-left: 3%;
+  width: 12%;
+}
+
+.header button {
+  margin-left: 0.5%;
+}
+
+.result p {
+  font-weight: 600;
+}
+/*# sourceMappingURL=style.css.map */
